@@ -1,6 +1,6 @@
 # Understanding Deep Learning - Simplified Notebook
 
-This repository contains a Jupyter notebook that is intended to simplify and help explain concepts from Simon J.D. Prince's book *Understanding Deep Learning*. It is designed as a companion piece for readers who prefer an interactive learning experience.
+This repository contains a Jupyter notebook that is intended to simplify and help explain concepts from Simon J.D. Prince's book *Understanding Deep Learning*. It's really just something I'm doing to help myself understand this stuff and I figured why not share it in case it helps someone else.
 
 ## Prerequisites
 
