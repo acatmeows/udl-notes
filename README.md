@@ -4,6 +4,8 @@ This repository contains a Jupyter notebook that is intended to simplify and hel
 
 ## Using the Notebook
 
+The notes are in the chapters folder.
+
 If you don't know how to use a Jupyter notebook from a GitHub repo, ask ChatGPT to walk you through it. I use VS Code to make and view them.
 
 ## Contributions
