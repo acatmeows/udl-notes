@@ -1,4 +1,4 @@
-# Understanding Deep Learning Notes
+# Understanding Deep Learning - Notes
 
 ## Overview
 This repository houses a Jupyter notebook designed to distill and clarify the principles from Simon J.D. Prince's book "Understanding Deep Learning." It serves as a personal knowledge consolidation effort but is shared publicly in the hope that it may benefit others in their learning journey.
