@@ -1,17 +1,22 @@
 # Understanding Deep Learning Notes
 
-This repository contains a Jupyter notebook that is intended to simplify and help explain concepts from Simon J.D. Prince's book *Understanding Deep Learning*. It's really just something I'm doing to help myself understand this stuff and I figured why not share it in case it helps someone else.
+## Overview
+This repository houses a Jupyter notebook designed to distill and clarify the principles from Simon J.D. Prince's book "Understanding Deep Learning." It serves as a personal knowledge consolidation effort but is shared publicly in the hope that it may benefit others in their learning journey.
 
-## Using the Notebook
+## How to Use This Repository
 
-The notes are in the chapters folder.
+### Accessing the Notes
+The detailed notes are organized within the 'chapters' directory. Navigate through this folder to find the relevant content for each section of the book.
 
-If you don't know how to use a Jupyter notebook from a GitHub repo, ask ChatGPT to walk you through it. I use VS Code to make and view them.
+### Working with Jupyter Notebooks
+If you're unfamiliar with Jupyter notebooks or need assistance in using them from a GitHub repository, please refer to the official [Jupyter Documentation](https://jupyter.org/documentation) or utilize tools like Visual Studio Code which provide robust support for these file types.
 
 ## Contributions
 
-Contributions/corrections are welcome. If you have a suggestion that would improve this, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+### Improving the Content
+Corrections are welcome. If you wish to propose changes, please fork the repository, commit your improvements, and submit a pull request for review. Alternatively, you can open an issue with the tag "enhancement" to suggest specific refinements.
 
 ## License
 
-This project is dedicated to the public domain under the CC0 license. For more information, see the `LICENSE` file or visit [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+### Open Source Dedication
+This project is freely available under the CC0 license, dedicating it to the public domain for unrestricted use. For full license details, please refer to the `LICENSE` file or visit the [Creative Commons CC0 webpage](https://creativecommons.org/publicdomain/zero/1.0/).
